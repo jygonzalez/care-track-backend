@@ -1,47 +1,4 @@
-# Setup Instructions for Frontend
-
-## Overview
-
-Our frontend application is built using **Vite**, **React**, and **JavaScript** for fast and efficient development.
-
-## Getting Started
-
-### 1. Navigate to the Frontend Directory
-
-Ensure you are in the project root and move to the `frontend` folder:
-
-```bash
-cd frontend
-```
-
-### 2. Install Dependencies
-
-Run the following command to install all required dependencies:
-
-```bash
-npm install
-```
-
-### 3. Start the Development Server
-
-To start the frontend in development mode, run:
-
-```bash
-npm run dev
-```
-
-### 4. Access the Application
-
-Once the server starts, you can access the application in your browser at:
-
-```
-http://localhost:5173
-```
-
-## Additional Notes
-
-- Ensure you have **Node.js** and **npm** installed before running the setup.
-- If you encounter any issues, try running `npx vite` directly.
+This is my work done for the Winter 2025 Hackathon (2 days of development)
 
 # Setup Instructions for Backend
 
